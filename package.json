@@ -12,6 +12,8 @@
     "colors": "^1.1.2"
   },
   "dependencies": {
-    "chat": "git+https://github.com/gabriel-araujjo/node-chat.git"
+    "chat": "git+https://github.com/gabriel-araujjo/node-chat.git",
+    "command-line-args": "^3.0.1",
+    "underscore": "^1.8.3"
   }
 }
