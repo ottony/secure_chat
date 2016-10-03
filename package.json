@@ -9,14 +9,12 @@
   "author": "Ottony Costa <ottony93@gmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "colors": "^1.1.2"
+    "colors": "^1.1.2",
+    "nodemon": "^1.10.2"
   },
   "dependencies": {
     "chat": "git+https://github.com/gabriel-araujjo/node-chat.git",
     "command-line-args": "^3.0.1",
     "underscore": "^1.8.3"
-  },
-  "devDependencies": {
-    "nodemon": "^1.10.2"
   }
 }
