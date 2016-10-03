@@ -2,9 +2,9 @@
   "name": "chat_client",
   "version": "1.0.0",
   "description": "A interface to @grabriel-araujjo node-chat project",
-  "main": "./lib/chat.js",
+  "main": "./lib/index.js",
   "scripts": {
-    "dev": "nodemon --exec node lib/chat.js"
+    "dev": "nodemon --exec node lib/index.js"
   },
   "author": "Ottony Costa <ottony93@gmail.com>",
   "license": "MIT",
