@@ -137,11 +137,17 @@ If the first connected, the server, want to request Diffie Hellman, first set th
 
 If you want to change the crypto algorithm, just configure that
 
+##### SDES
+
 ```
 > \crypto=sdes
 Change crypto layer to SDES with key 
 4573746567616e6f677261666961
+```
 
+#### RC4
+
+```
 \crypto=rc4
 Change crypto layer to RC4 with key 
 4573746567616e6f677261666961
