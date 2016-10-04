@@ -13,11 +13,12 @@
   },
   "dependencies": {
     "chat": "git+https://github.com/gabriel-araujjo/node-chat.git",
+    "colors": "^1.1.2",
     "command-line-args": "^3.0.1",
+    "date_cypher": "git+https://github.com/ottony/date_cypher.git",
     "dh": "git+https://github.com/gabriel-araujjo/node-dh.git",
     "rc4-stream": "git+https://github.com/gabriel-araujjo/node-rc4.git",
     "sdes": "git+https://github.com/gabriel-araujjo/sdes_wrapper.git",
-    "underscore": "^1.8.3",
-    "colors": "^1.1.2"
+    "underscore": "^1.8.3"
   }
 }
