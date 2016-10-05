@@ -153,4 +153,4 @@ Change crypto layer to RC4 with key
 4573746567616e6f677261666961
 ```
 
-If nothing changes, you alread have this crypto layear.
+If nothing changes, you alread have this crypto layer.
